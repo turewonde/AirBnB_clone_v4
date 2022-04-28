@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Wondmagegn Rahmeto - [Github](https://github.com/turewonde) / [Twitter](https://twitter.com/wondmagegnrahm2)  
-Quincy Omega Mashava - [Github]() / [Twitter]()
+Meaza Lemma - [Github]() / [Twitter]()
 
 Second part of Airbnb: 
 ## License
